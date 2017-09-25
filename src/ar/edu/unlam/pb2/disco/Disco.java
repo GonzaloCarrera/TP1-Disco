@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.disco;
+package ar.edu.unlam.pb2.Disco;
 
 public class Disco {
 	private Double radioInterior;
@@ -44,3 +44,4 @@ public class Disco {
 		return superficie;
 	}
 }
+
